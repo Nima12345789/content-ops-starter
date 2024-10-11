@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hei!
+      text: 'Hei! HAluaisitko oppia tekemään nettisivut, pelejä ja paljon muuta?'
       color: text-dark
       type: TitleBlock
     subtitle: Varsinaista aihetta ei vielä ole!
