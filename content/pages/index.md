@@ -112,10 +112,9 @@ sections:
         type: FeaturedItem
       - title: Sovellukset
         subtitle: Voit tehdä kanssamme mobiili sovelluksia.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          **Teemme ne Androidille.** käytämme ainakin seuraavia kieliä ->
+          kotlin, java
         image:
           url: /images/icon3.svg
           altText: Featured icon three
