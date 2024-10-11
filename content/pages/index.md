@@ -61,7 +61,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Nettisivut
-        subtitle: Numbers Done
+        subtitle: Voit oppia tekemään netttisivut itse!
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
