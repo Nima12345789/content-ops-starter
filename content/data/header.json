@@ -78,7 +78,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Kehittäjille"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
