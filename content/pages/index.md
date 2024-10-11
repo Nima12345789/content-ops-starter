@@ -176,6 +176,10 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
