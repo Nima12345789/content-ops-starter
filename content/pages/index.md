@@ -183,8 +183,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/abstract-feature1.svg
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
