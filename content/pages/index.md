@@ -166,7 +166,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: ''
     images: []
     motion: move-to-left
     colors: bg-light-fg-dark
