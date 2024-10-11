@@ -88,7 +88,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Pelejä!
-        subtitle: The Job Stuff
+        subtitle: Voit oppia tekemää yksinkertaisia ja haastavia pelejä tietokoneelle!
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
