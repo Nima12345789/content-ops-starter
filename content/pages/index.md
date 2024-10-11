@@ -167,10 +167,7 @@ sections:
       subtitle:
         textAlign: center
   - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
+    images: []
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
