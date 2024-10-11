@@ -62,10 +62,9 @@ sections:
       - type: FeaturedItem
         title: Nettisivut
         subtitle: Voit oppia tekemään netttisivut itse!
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Me autamme sinua tekemään nettisivut itse alusta loppuun! Käytämme
+          seuraavia kieliä -> HTML, CSS, JS
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
