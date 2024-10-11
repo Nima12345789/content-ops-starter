@@ -7,7 +7,7 @@ sections:
       text: 'Hei! Haluaisitko oppia tekemään nettisivut, pelejä ja paljon muuta?'
       color: text-dark
       type: TitleBlock
-    subtitle: Varsinaista aihetta ei vielä ole!
+    subtitle: '-Olet oikeassa verkkoosoitteessa!'
     text: |
       Näillä sivuilla ei varsinaisesti vielä ole aihetta!
     actions:
