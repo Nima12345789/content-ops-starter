@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Terve tuloa Niman virallisille nettisivuille!
+      text: Hei!
       color: text-dark
       type: TitleBlock
     subtitle: Varsinaista aihetta ei vielä ole!
