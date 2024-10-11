@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: '-Olet oikeassa verkkoosoitteessa!'
     text: |
-      Näillä sivuilla ei varsinaisesti vielä ole aihetta!
+      Näillä sivuilla opit varmasti kuinka tehdä omat nettisivut, pelejä yms.
     actions:
       - label: Get started
         altText: ''
