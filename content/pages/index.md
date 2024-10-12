@@ -133,7 +133,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Aloita
         altText: ''
         url: /
         showIcon: false
