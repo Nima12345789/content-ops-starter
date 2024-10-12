@@ -388,9 +388,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: '"koodaaminen saattaa aluksi tuntua vaikealta!'
         tagline: Kehittäjältä
         subtitle: Nima Sahraravand
         text: |
