@@ -386,7 +386,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: MItä mieltä muut ovat
     items:
       - title: '"Koodaaminen saattaa aluksi tuntua vaikealta! Anna meidän auttaa"'
         tagline: Kehittäjältä
