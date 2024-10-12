@@ -388,7 +388,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: '"koodaaminen saattaa aluksi tuntua vaikealta!'
+      - title: '"Koodaaminen saattaa aluksi tuntua vaikealta! Anna meidän auttaa"'
         tagline: Kehittäjältä
         subtitle: Nima Sahraravand
         text: |
