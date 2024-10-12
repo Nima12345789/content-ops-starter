@@ -396,7 +396,7 @@ sections:
         text: |
           Arvostele palvelumme saat arvostelusi myöhemmin tähän!
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/icon3.svg
           altText: Nima Sahraravand
           styles:
             self:
