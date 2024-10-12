@@ -397,7 +397,7 @@ sections:
           Arvostele palvelumme saat arvostelusi myöhemmin tähän!
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: Nima Sahraravand
           styles:
             self:
               borderRadius: full
