@@ -419,7 +419,7 @@ sections:
         tagline: Voit lisätä pienen mainoksen yrityksestäsi
         subtitle: Tekstiä
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Lisää pitkää tekstiä
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
