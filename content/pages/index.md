@@ -687,7 +687,7 @@ sections:
           type: TextFormControl
         - name: email
           label: Email
-          hideLabel: true
+          hideLabel: false
           placeholder: Sähköposti
           isRequired: true
           width: full
