@@ -698,7 +698,7 @@ sections:
           placeholder: 'Viesti:'
           width: full
           type: TextareaFormControl
-          isRequired: false
+          isRequired: true
       elementId: contact-form
       styles:
         self:
