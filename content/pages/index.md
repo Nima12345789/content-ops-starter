@@ -417,7 +417,7 @@ sections:
       - title: >-
           "Design is a plan for arranging elements in such a way as best to
           accomplish a particular purpose."
-        tagline: Testimonial 2
+        tagline: TÄällä ei ole vielä arvosteluja
         subtitle: 'John Doe, Company'
         text: ''
         image:
