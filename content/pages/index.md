@@ -394,7 +394,7 @@ sections:
         text: |
           Arvostele palvelumme saat arvostelusi myöhemmin tähän!
         image:
-          url: /images/avatar4.svg
+          url: /images/icon3.svg
           altText: Nima Sahraravand
           styles:
             self:
