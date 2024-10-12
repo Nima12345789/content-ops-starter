@@ -414,31 +414,6 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Kommentti tähän
-        tagline: Täällä ei ole vielä arvosteluja
-        subtitle: Tähän nimesi
-        text: ''
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
       - title: >-
           “Quote from some important person goes right here. I love using
           Netlify Create.”
