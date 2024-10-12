@@ -688,7 +688,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Sähköposti
           isRequired: true
           width: full
           type: EmailFormControl
