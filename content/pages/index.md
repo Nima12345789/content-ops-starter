@@ -440,7 +440,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Otsikko tähän
-        tagline: This is the tagline
+        tagline: Voit lisätä suuren mainoksen yrityksestäsi
         subtitle: Tekstiä
         text: |
           Lisää tekstiä
