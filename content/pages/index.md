@@ -414,9 +414,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+      - title: Kommentti tähän
         tagline: TÄällä ei ole vielä arvosteluja
         subtitle: Tähän nimesi
         text: ''
