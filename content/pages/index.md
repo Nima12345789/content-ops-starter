@@ -441,7 +441,7 @@ sections:
       - type: FeaturedItem
         title: Otsikko tähän
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Tekstiä
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
