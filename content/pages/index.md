@@ -443,7 +443,7 @@ sections:
         tagline: This is the tagline
         subtitle: Tekstiä
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Lisää tekstiä
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
