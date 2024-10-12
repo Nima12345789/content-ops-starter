@@ -417,7 +417,7 @@ sections:
       - type: FeaturedItem
         title: Otsikko tulee tähän
         tagline: Voit lisätä pienen mainoksen yrityksestäsi
-        subtitle: This is the item subtitle
+        subtitle: Tekstiä
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
