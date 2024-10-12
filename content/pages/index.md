@@ -415,7 +415,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Kommentti tähän
-        tagline: TÄällä ei ole vielä arvosteluja
+        tagline: Täällä ei ole vielä arvosteluja
         subtitle: Tähän nimesi
         text: ''
         image:
