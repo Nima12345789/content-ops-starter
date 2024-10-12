@@ -418,7 +418,7 @@ sections:
           "Design is a plan for arranging elements in such a way as best to
           accomplish a particular purpose."
         tagline: TÄällä ei ole vielä arvosteluja
-        subtitle: 'John Doe, Company'
+        subtitle: Tähän nimesi
         text: ''
         image:
           url: /images/person-placeholder-light.png
