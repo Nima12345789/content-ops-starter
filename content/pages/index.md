@@ -696,7 +696,7 @@ sections:
           label: Message
           hideLabel: true
           placeholder: 'Viesti:'
-          width: 1/2
+          width: full
           type: TextareaFormControl
           isRequired: true
       elementId: contact-form
