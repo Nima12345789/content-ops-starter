@@ -415,7 +415,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - type: FeaturedItem
-        title: Pieni mainos
+        title: Otsikko tulee tähän
         tagline: Voit lisätä pienen mainoksen yrityksestäsi
         subtitle: This is the item subtitle
         text: |
