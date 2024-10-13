@@ -8,7 +8,7 @@ topSections:
       text: Blogimme
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: 'Huom: päivitämme blogiamme aika harvoin'
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
