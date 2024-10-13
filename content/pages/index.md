@@ -374,5 +374,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+      content: Naksu
 type: PageLayout
 ---
