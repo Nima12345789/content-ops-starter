@@ -371,5 +371,7 @@ seo:
   metaDescription: Tervetuloa Naku sivuille täällä opetamme koodaamaan!
   socialImage: /images/hero2.svg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
