@@ -369,7 +369,7 @@ sections:
 seo:
   metaTitle: Naksu
   metaDescription: Tervetuloa Naku sivuille täällä opetamme koodaamaan!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/hero2.svg
   type: Seo
 type: PageLayout
 ---
