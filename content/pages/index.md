@@ -11,7 +11,7 @@ sections:
     text: |
       Näillä sivuilla opit varmasti kuinka tehdä omat nettisivut, pelejä yms.
     actions:
-      - label: Get started
+      - label: Aloita
         altText: ''
         url: /
         showIcon: false
