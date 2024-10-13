@@ -368,7 +368,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Naksu
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Tervetuloa Naku sivuille täällä opetamme koodaamaan!
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
