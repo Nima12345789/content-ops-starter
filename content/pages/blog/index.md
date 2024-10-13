@@ -1,14 +1,14 @@
 ---
 title: Blog
-slug: /blog
+slug: /blogi
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Blogimme
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: 'Huom: päivitämme blogiamme aika harvoin'
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
@@ -51,5 +51,6 @@ postFeed:
   elementId: null
   variant: three-col-grid
   colors: bg-light-fg-dark
-  hoverEffect: move-up
+  hoverEffect: shadow-plus-move-up
+isDraft: false
 ---
