@@ -1,7 +1,7 @@
 ---
 title: Nettisivujen teko
 slug: top-ten-lessons-we-learned
-date: '2024-10-13'
+date: '2024-09-13'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
