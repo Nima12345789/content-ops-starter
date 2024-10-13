@@ -52,4 +52,5 @@ postFeed:
   variant: three-col-grid
   colors: bg-light-fg-dark
   hoverEffect: shadow-plus-move-up
+isDraft: false
 ---
