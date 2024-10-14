@@ -24,7 +24,7 @@
                 "pr-6"
             ],
             "textAlign": "center",
-            "borderColor": "border-neutral",
+            "borderColor": "border-neutralAlt",
             "borderStyle": "dashed",
             "borderWidth": 0,
             "borderRadius": "none",
