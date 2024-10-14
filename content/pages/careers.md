@@ -67,7 +67,7 @@ sections:
           - pr-16
         justifyContent: center
         margin:
-          - ml-14
+          - ml-0
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
