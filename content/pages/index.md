@@ -35,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Niman sivut
+      label: Koodikompassi
       color: text-primary
       type: Badge
     elementId: ''
