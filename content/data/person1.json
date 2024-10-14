@@ -28,7 +28,10 @@
             "borderStyle": "solid",
             "borderWidth": 0,
             "borderRadius": "none",
-            "justifyContent": "center"
+            "justifyContent": "center",
+            "margin": [
+                "ml-10"
+            ]
         }
     },
     "type": "Person",
