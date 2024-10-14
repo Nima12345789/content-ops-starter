@@ -73,7 +73,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
+            "label": "Kirjaudu sisään",
             "url": "https://netlify.com/",
             "icon": "arrowRight",
             "iconPosition": "right",
