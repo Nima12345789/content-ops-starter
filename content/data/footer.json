@@ -37,20 +37,20 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Naksu",
+        "title": "KoodiKOmpassi",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Koti",
+                "altText": "home",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Blogi",
+                "url": "/blogi",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Ketkä meillä tekevät töitä?
       color: text-dark
       styles:
         self:
@@ -48,7 +48,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: Ketkä auttavat?
       color: text-dark
       styles:
         self:
@@ -56,12 +56,7 @@ sections:
       type: TitleBlock
     people:
       - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    variant: three-col-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
@@ -71,6 +66,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+        margin:
+          - ml-0
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
