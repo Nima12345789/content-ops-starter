@@ -41,7 +41,7 @@
         "links": [
             {
                 "label": "Koti",
-                "altText": "careers page",
+                "altText": "home",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
