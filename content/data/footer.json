@@ -50,7 +50,7 @@
             },
             {
                 "label": "Blogi",
-                "url": "/blog",
+                "url": "/blogi",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
