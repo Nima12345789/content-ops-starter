@@ -25,7 +25,7 @@
             ],
             "textAlign": "center",
             "borderColor": "border-neutralAlt",
-            "borderStyle": "dashed",
+            "borderStyle": "double",
             "borderWidth": 0,
             "borderRadius": "none",
             "justifyContent": "center",
